@@ -1,18 +1,13 @@
-# Spring-2021-Final-Project
- 
-///////////////////////////////////////////
-///// Welcome to my Final Project! ////////
-///////////////////////////////////////////
+# Spring 2021 Final Project (Java)
 
 For the sake of organization, I have put all of the files with code
-into the same structure as my actual project. I will overview the files
-for your convenience. (dropdown arrow on the scheduler file)
+into the same structure as my actual project. This project was designed
+to work on my local machine (as per the requirements of the assignment)
+so some tweaks would be needed to input/output paths.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-=-=-=-=-=-= application =-=-=-=-=-=
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+## Application
 
->> Main.java
+> Main.java
 
 This is the file that runs the program. In it,
 there are functions for input/output of files,
@@ -27,18 +22,16 @@ or not a class is cancelled) and printStats (self explanatory).
 All four of these functions are found in the Scheduler class in
 the "classes" folder if you would like to see them.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-=-=-=-=-=-= classes =-=-=-=-=-=
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+## Classes
 
->> Course.java
+> Course.java
 
 The class for Course objects. This contains all relevant 
 information to the courses, and a little bit of
 additional functionality at the bottom, which is 
 commented with what their purporse is.
 
->> Session.java
+> Session.java
 
 These are unique sessions of a course. For example, if Saddleback
 teaches BIO100, each of these are individual instances of that course.
@@ -46,7 +39,7 @@ A 10:00am-12:00pm with Joe and Bob is one session, but there are
 multiple instances of this class being taught at different times or by
 different people.
 
->> Person.java, Faculty.java, Student.java
+> Person.java, Faculty.java, Student.java
 
 This class is a base class which contains data that
 both "students" and "faculty" will have, as to avoid
@@ -54,13 +47,13 @@ redundancy. Student and Faculty are derived (inherit from)
 Person, but they have separate data in them that makes them
 unique, as well as additional extra functions.
 
->> IdGenerator.java, SessionIdGenerator.java
+> IdGenerator.java, SessionIdGenerator.java
 
 These are just a way to generate unique IDs for people
 and sessions. It just creates a random UUID string and
 makes some changes to fit what I needed for IDs.
 
->> Scheduler.java
+> Scheduler.java
 
 This is the real meat & potatoes of the project. This contains
 all of the functions that are used to run the actual program,
@@ -68,11 +61,9 @@ the ones that you saw in Main.java. They are mostly documented,
 so you can check out my solution to scheduling everything and 
 applying the relevant rules. 
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-=-=-=-=-=-= inputfiles =-=-=-=-=-=
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## InputFiles
 
->> controlVariables.txt
+> controlVariables.txt
 
 This text file contains all of the
 variables I am able to change in order to
@@ -92,24 +83,22 @@ so here is a legend for what each number means:
 // Line 8: Number of sessions to generate
 // Line 9: Max faculty per course
 
->> courseInfo.txt
+> courseInfo.txt
 
 Input for courses in the style of:
 Department, Course Number, Course Name
 
->> facultyInfo.txt
+> facultyInfo.txt
 
 Input for faculty members in the style of:
 Firstname, middlename, lastname, email, phone, address, city, state, zip, hire date, whether or not they're tenured
 
->> studentInfo.txt
+> studentInfo.txt
 
 Input for student in the style of:
 first, middle, last, email, phone, address, city, state, zip, birthday, GPA, start date at the college
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-=-=-=-=-=-= interfaces =-=-=-=-=-=
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+## Interfaces
 
 These files are my solution to the program's
 extendability. If anyone wanted to use my program
@@ -122,43 +111,34 @@ MUST be included in their version of the scheduler, meaning
 all of the functions in Main.java will still work perfectly fine, 
 just using their implementation instead.
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-=-=-=-=-=-= outputfiles =-=-=-=-=-=
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+## OutputFiles
 
->> faculty.txt
+> faculty.txt
 
 Program output of all faculty members.
 Self explanatory, as the data is labelled.
 
->> scheduledCourseSessions.txt
+> scheduledCourseSessions.txt
 
 Every course (and its sessions) that passed
 the <cull> algorithm, meaning the rules applied
 fine (they had enough students).
 
->> scheduledStudents.txt
+> scheduledStudents.txt
 
 Similar to faculty.txt, but includes
 only students who were able to get into
 at least ONE course session. Self explanatory
 data included.
 
->> unscheduledCourseSessions.txt
+> unscheduledCourseSessions.txt
 
 All of the courses that did not
 have enough students across all of
 their sessions, so they were cancelled.
 
->> unscheduledStudents.txt
+> unscheduledStudents.txt
 
 Similar to scheduledStudents.txt, but
 includes only students who did not get into
 a single session.
-
-////////////////////////////////////////////////////////////////////
-///// Please feel free to ask me if you have any questions! ////////
-///// As of right now, this program will not work if you ///////////
-///// try to run it because the input/output paths are /////////////
-///// local for the sake of the project. ///////////////////////////
-////////////////////////////////////////////////////////////////////
