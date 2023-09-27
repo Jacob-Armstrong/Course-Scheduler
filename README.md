@@ -5,6 +5,10 @@ into the same structure as my actual project. This project was designed
 to work on my local machine (as per the requirements of the assignment)
 so some tweaks would be needed to input/output paths.
 
+This program is a college course scheduler. Certain parameters are given
+in the input files, as well as all of the user data, and scheduled courses
+are returned based on the students' preferred classes and teachers' availability.
+
 ## Application
 
 > Main.java
@@ -61,7 +65,7 @@ the ones that you saw in Main.java. They are mostly documented,
 so you can check out my solution to scheduling everything and 
 applying the relevant rules. 
 
-## InputFiles
+## Input Files
 
 > controlVariables.txt
 
@@ -111,7 +115,7 @@ MUST be included in their version of the scheduler, meaning
 all of the functions in Main.java will still work perfectly fine, 
 just using their implementation instead.
 
-## OutputFiles
+## Output Files
 
 > faculty.txt
 
