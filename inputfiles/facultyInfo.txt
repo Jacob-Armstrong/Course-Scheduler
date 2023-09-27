@@ -1,0 +1,20 @@
+Giffy,Torey,Cradock,tcradock0@pinterest.com,304-206-9866,92135 Oak Valley Crossing,Charleston,WV,25305,4/27/2005,true
+Boyd,Wilfrid,Alcott,walcott1@webeden.co.uk,903-450-0070,979 Rutledge Lane,Tyler,TX,75799,10/4/2016,true
+Romona,Shaina,Holywell,sholywell2@bloomberg.com,757-341-1541,8 Heffernan Court,Norfolk,VA,23520,6/21/2001,true
+Shane,Willie,Haire,whaire3@blogs.com,210-814-7290,574 American Crossing,San Antonio,TX,78265,10/26/2013,true
+Archy,Hamilton,Keyworth,hkeyworth4@harvard.edu,407-958-6655,3 School Alley,Orlando,FL,32854,5/31/2006,true
+Kerry,Hali,Bazoche,hbazoche5@kickstarter.com,434-117-5961,26222 Butterfield Junction,Lynchburg,VA,24503,2/1/2004,true
+Allistir,Cairistiona,Spearett,cspearett6@nydailynews.com,406-996-3986,24 Prairieview Way,Billings,MT,59105,3/3/2002,false
+Lucias,Tawsha,Jensen,tjensen7@acquirethisname.com,917-409-0432,21753 Steensland Drive,Brooklyn,NY,11215,1/23/2015,true
+Stacie,Corinna,Keigher,ckeigher8@uiuc.edu,206-261-6736,26823 Kipling Hill,Seattle,WA,98185,3/14/2008,false
+Mirabella,Jeannine,Baish,jbaish9@slashdot.org,907-803-6509,39 Charing Cross Drive,Fairbanks,AK,99709,3/30/2015,false
+Waly,Karel,Davis,kdavisa@nature.com,509-308-7860,80362 Debs Road,Spokane,WA,99260,12/6/2007,false
+Shae,Bettina,Ing,bingb@dailymotion.com,304-129-1074,22990 Little Fleur Pass,Charleston,WV,25389,7/11/2011,true
+Reta,Jillane,Goodship,jgoodshipc@nyu.edu,303-440-8151,3 Fairfield Avenue,Aurora,CO,80045,5/2/2007,false
+Cody,Domenico,Cronshaw,dcronshawd@blogs.com,513-687-7308,62008 Norway Maple Road,Cincinnati,OH,45999,12/21/2002,false
+Wainwright,Calhoun,Clempton,cclemptone@salon.com,712-642-6477,563 Manley Pass,Sioux City,IA,51110,5/15/2008,true
+Ardelis,Edwina,Duffan,eduffanf@vkontakte.ru,317-648-5627,7485 Mcguire Junction,Indianapolis,IN,46247,6/14/2016,true
+Kai,Christoper,Dearan,cdearang@cbsnews.com,915-765-1708,47427 Meadow Vale Plaza,El Paso,TX,79994,4/26/2009,true
+Padriac,Joseph,Scain,jscainh@bloglovin.com,623-958-9060,41838 Service Way,Scottsdale,AZ,85260,2/10/2004,true
+Christan,Tracy,Dales,tdalesi@hc360.com,513-811-6091,577 Michigan Point,Cincinnati,OH,45243,7/18/2004,true
+Rafaelita,Melesa,Gunthorpe,mgunthorpej@typepad.com,786-204-6921,367 Alpine Plaza,Hialeah,FL,33013,10/7/2005,false

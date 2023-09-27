@@ -1,0 +1,10 @@
+CS,1B,Introduction to Computer Science II
+CS,4A,Introduction to Java
+CS,4B,Introduction to Java II
+BIO,109,Introduction to BIO
+BIO,3,Advanced Biology
+BIO,4,Even More Advanced Biology
+PHYS,1,Is Physics Real
+PHYS,2,Is Physics Cool
+PHYS,3,Physics Is Real Cool
+SOC,2H,Sociology

@@ -1,0 +1,1131 @@
+=======
+
+Name: Blondy Morna Hadigate
+Email: mhadigate0@vistaprint.com
+Phone: 281-245-6014
+Address: 6 Banding Center, Houston, TX, 77095
+Birthday: 9/18/2005
+GPA: 2.5
+Start date: 2/4/2021
+ID: 4c0f0073
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Aggi Elana Wolsey
+Email: ewolsey1@i2i.jp
+Phone: 202-590-7428
+Address: 996 Bonner Parkway, Washington, DC, 20244
+Birthday: 3/8/2004
+GPA: 2.6
+Start date: 3/30/2020
+ID: 1a89afa6
+Enrolled courses: CS4A, BIO4
+
+
+=======
+
+Name: Aristotle Carolynn Gioan
+Email: cgioan2@mayoclinic.com
+Phone: 414-591-6848
+Address: 58 Hovde Way, Milwaukee, WI, 53234
+Birthday: 3/16/2001
+GPA: 3.3
+Start date: 11/13/2020
+ID: d7b9ae41
+Enrolled courses: CS4B, BIO4
+
+
+=======
+
+Name: Revkah Veronika Myford
+Email: vmyford3@cloudflare.com
+Phone: 916-133-3827
+Address: 59 Corscot Way, Sacramento, CA, 95818
+Birthday: 3/29/2003
+GPA: 3.6
+Start date: 11/3/2020
+ID: 37e9da1b
+Enrolled courses: BIO4, PHYS2
+
+
+=======
+
+Name: Aggi Kelly Balm
+Email: kbalm4@slideshare.net
+Phone: 609-163-4195
+Address: 62 Logan Trail, Trenton, NJ, 8608
+Birthday: 6/7/2005
+GPA: 2.5
+Start date: 11/14/2020
+ID: 8096b27e
+Enrolled courses: CS4B
+
+
+=======
+
+Name: Heather Odelia Mignot
+Email: omignot5@java.com
+Phone: 347-758-7852
+Address: 5 Steensland Place, Flushing, NY, 11388
+Birthday: 2/26/2001
+GPA: 3.6
+Start date: 1/30/2020
+ID: 50db2db5
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Bettine Carlie Knibley
+Email: cknibley6@seattletimes.com
+Phone: 513-321-7178
+Address: 70671 Stuart Park, Dayton, OH, 45419
+Birthday: 11/13/2001
+GPA: 3.7
+Start date: 1/19/2020
+ID: ccaaa273
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Valma Terrel Carwithim
+Email: tcarwithim8@shareasale.com
+Phone: 317-633-6542
+Address: 241 Sheridan Center, Indianapolis, IN, 46295
+Birthday: 10/5/2003
+GPA: 2.1
+Start date: 4/22/2021
+ID: e9700680
+Enrolled courses: CS1B, CS4B
+
+
+=======
+
+Name: Andeee Merle Fetteplace
+Email: mfetteplace9@tripadvisor.com
+Phone: 917-492-8552
+Address: 39 Ronald Regan Drive, Jamaica, NY, 11480
+Birthday: 10/13/2002
+GPA: 2.1
+Start date: 3/4/2021
+ID: 613a9439
+Enrolled courses: CS4A, BIO109
+
+
+=======
+
+Name: Annetta Dian Gimblet
+Email: dgimbleta@hc360.com
+Phone: 916-867-4495
+Address: 606 Sugar Place, Sacramento, CA, 94263
+Birthday: 5/26/2001
+GPA: 2.3
+Start date: 10/2/2020
+ID: 7fdb433a
+Enrolled courses: CS4A
+
+
+=======
+
+Name: Creigh Reginald Portman
+Email: rportmanb@mtv.com
+Phone: 606-898-5124
+Address: 64 Prentice Lane, London, KY, 40745
+Birthday: 2/7/2005
+GPA: 2.3
+Start date: 7/28/2020
+ID: 82f99906
+Enrolled courses: CS1B, CS4A
+
+
+=======
+
+Name: Thaxter Swen Hallor
+Email: shallord@live.com
+Phone: 518-709-8759
+Address: 7 Algoma Lane, Albany, NY, 12255
+Birthday: 4/22/2001
+GPA: 3.2
+Start date: 3/20/2021
+ID: 82fef866
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Augustina Tuesday Cowie
+Email: tcowiee@bbb.org
+Phone: 318-493-3715
+Address: 59025 Gale Court, Shreveport, LA, 71130
+Birthday: 5/13/2003
+GPA: 3.8
+Start date: 11/28/2019
+ID: 27ec0b93
+Enrolled courses: CS4A, BIO4
+
+
+=======
+
+Name: Nicoli Jorge Boomes
+Email: jboomesf@yellowbook.com
+Phone: 214-449-6437
+Address: 6 Swallow Hill, Dallas, TX, 75241
+Birthday: 3/27/2002
+GPA: 2.4
+Start date: 10/17/2020
+ID: 3f9af48f
+Enrolled courses: CS4B, BIO4
+
+
+=======
+
+Name: Gaylor Juditha Prover
+Email: jproverg@qq.com
+Phone: 763-727-2761
+Address: 57416 Alpine Place, Monticello, MN, 55565
+Birthday: 11/23/2004
+GPA: 2.3
+Start date: 3/20/2020
+ID: ac417b74
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Terri Colette Pearsey
+Email: cpearseyh@cam.ac.uk
+Phone: 405-290-8377
+Address: 646 Utah Crossing, Oklahoma City, OK, 73119
+Birthday: 5/6/2005
+GPA: 2.3
+Start date: 1/25/2021
+ID: be6a8f48
+Enrolled courses: CS4A
+
+
+=======
+
+Name: Gawen La verne Wilflinger
+Email: lwilflingeri@constantcontact.com
+Phone: 305-598-2276
+Address: 84 Hanson Crossing, Miami Beach, FL, 33141
+Birthday: 1/3/2004
+GPA: 3.9
+Start date: 1/26/2021
+ID: 8211fd7f
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Kit Aggie Fretwell
+Email: afretwellk@scribd.com
+Phone: 415-499-6160
+Address: 58 South Alley, San Francisco, CA, 94142
+Birthday: 10/6/2001
+GPA: 2.6
+Start date: 12/23/2019
+ID: 9d8c208f
+Enrolled courses: CS4B
+
+
+=======
+
+Name: Goddard Estevan Buston
+Email: ebustonl@mozilla.com
+Phone: 202-742-7201
+Address: 32 Mallory Plaza, Washington, DC, 20551
+Birthday: 4/11/2005
+GPA: 3.6
+Start date: 9/21/2020
+ID: b3b4ca6f
+Enrolled courses: CS4A, CS4B
+
+
+=======
+
+Name: See Bogart Bagnal
+Email: bbagnalm@census.gov
+Phone: 318-993-7911
+Address: 0521 Thierer Circle, Shreveport, LA, 71151
+Birthday: 6/3/2002
+GPA: 3.1
+Start date: 6/4/2020
+ID: e4f6830c
+Enrolled courses: CS4B
+
+
+=======
+
+Name: Parrnell Boycie Dalliwatr
+Email: bdalliwatrn@sourceforge.net
+Phone: 704-597-7999
+Address: 8335 Corscot Street, Charlotte, NC, 28272
+Birthday: 3/4/2005
+GPA: 3.4
+Start date: 4/29/2020
+ID: af0c75d4
+Enrolled courses: CS1B
+
+
+=======
+
+Name: Trudi Peta Cagan
+Email: pcagano@umich.edu
+Phone: 720-493-4219
+Address: 80027 Morrow Drive, Denver, CO, 80235
+Birthday: 3/4/2005
+GPA: 2.1
+Start date: 10/16/2019
+ID: 40b2c8e0
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Hinda Conn Kikke
+Email: ckikkep@webs.com
+Phone: 517-219-7048
+Address: 751 Thompson Park, Lansing, MI, 48956
+Birthday: 3/22/2005
+GPA: 2.6
+Start date: 12/28/2019
+ID: a7322f8b
+Enrolled courses: CS4B
+
+
+=======
+
+Name: Berty Olivette Kynoch
+Email: okynochq@about.com
+Phone: 480-423-7205
+Address: 0922 Fairview Drive, Gilbert, AZ, 85297
+Birthday: 2/26/2002
+GPA: 3.0
+Start date: 9/26/2019
+ID: d8f56c5f
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Riannon Leeann Nerne
+Email: lnerner@home.pl
+Phone: 601-989-4148
+Address: 843 Autumn Leaf Pass, Jackson, MS, 39204
+Birthday: 5/4/2003
+GPA: 2.2
+Start date: 2/28/2020
+ID: b196c597
+Enrolled courses: BIO109, PHYS2
+
+
+=======
+
+Name: Glenden Loraine Groundwator
+Email: lgroundwators@webs.com
+Phone: 404-752-9015
+Address: 7 Havey Pass, Atlanta, GA, 30336
+Birthday: 1/22/2002
+GPA: 2.4
+Start date: 11/29/2020
+ID: cfb9cfbd
+Enrolled courses: CS4A
+
+
+=======
+
+Name: Gallagher Britney Sailer
+Email: bsailert@google.com
+Phone: 417-919-3910
+Address: 8 Lunder Drive, Springfield, MO, 65898
+Birthday: 8/6/2005
+GPA: 3.8
+Start date: 10/17/2019
+ID: 08bed513
+Enrolled courses: CS4A, BIO4
+
+
+=======
+
+Name: Ramsay Nicolas Iacomi
+Email: niacomiu@xing.com
+Phone: 616-653-8702
+Address: 511 Mariners Cove Center, Grand Rapids, MI, 49510
+Birthday: 10/4/2002
+GPA: 3.9
+Start date: 9/23/2019
+ID: 517f60df
+Enrolled courses: BIO109, PHYS2
+
+
+=======
+
+Name: Ches Karlene Millar
+Email: kmillarv@constantcontact.com
+Phone: 318-923-5860
+Address: 3 Loeprich Circle, Boston, MA, 2104
+Birthday: 1/3/2001
+GPA: 2.2
+Start date: 11/13/2019
+ID: 1334cb10
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Pennie Gwendolyn Szymczyk
+Email: gszymczykw@toplist.cz
+Phone: 352-753-0524
+Address: 1958 Oak Pass, Gainesville, FL, 32610
+Birthday: 9/17/2005
+GPA: 3.8
+Start date: 3/28/2020
+ID: b1ec3975
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Merrili Tore Orry
+Email: torryx@businessweek.com
+Phone: 484-402-8990
+Address: 21 Redwing Center, Bethlehem, PA, 18018
+Birthday: 5/8/2005
+GPA: 2.9
+Start date: 12/17/2020
+ID: a630aa80
+Enrolled courses: CS1B, CS4A
+
+
+=======
+
+Name: Desdemona Haskell Robiot
+Email: hrobioty@constantcontact.com
+Phone: 352-341-4529
+Address: 27992 Pierstorff Street, Gainesville, FL, 32627
+Birthday: 11/1/2004
+GPA: 3.8
+Start date: 5/11/2020
+ID: 137133cc
+Enrolled courses: BIO4, PHYS2
+
+
+=======
+
+Name: Kaine Bradly Folkes
+Email: bfolkesz@people.com.cn
+Phone: 407-324-6856
+Address: 05293 Grasskamp Alley, Orlando, FL, 32885
+Birthday: 5/11/2004
+GPA: 2.6
+Start date: 11/25/2019
+ID: d3cb49fb
+Enrolled courses: CS4A
+
+
+=======
+
+Name: Ulysses Craggie Treslove
+Email: ctreslove10@sourceforge.net
+Phone: 720-579-8941
+Address: 015 Monument Point, Denver, CO, 80255
+Birthday: 8/20/2004
+GPA: 3.4
+Start date: 11/25/2020
+ID: fd919cf8
+Enrolled courses: CS4A
+
+
+=======
+
+Name: Ilysa Zuzana de Castelain
+Email: zdecastelain11@wsj.com
+Phone: 619-653-4937
+Address: 99467 Spenser Crossing, San Diego, CA, 92121
+Birthday: 11/20/2002
+GPA: 2.4
+Start date: 7/17/2020
+ID: 21484394
+Enrolled courses: CS1B, BIO109
+
+
+=======
+
+Name: Arlie Jeana Themann
+Email: jthemann12@bing.com
+Phone: 720-220-6568
+Address: 35 Mccormick Road, Aurora, CO, 80015
+Birthday: 11/30/2001
+GPA: 3.1
+Start date: 4/17/2020
+ID: c46bfc16
+Enrolled courses: CS4A, PHYS2
+
+
+=======
+
+Name: Pen Rici Goodding
+Email: rgoodding13@delicious.com
+Phone: 719-820-3646
+Address: 5 Victoria Place, Colorado Springs, CO, 80915
+Birthday: 9/5/2005
+GPA: 3.2
+Start date: 7/18/2020
+ID: 3a8f5501
+Enrolled courses: CS4B, BIO109
+
+
+=======
+
+Name: Giorgia Toiboid Croft
+Email: tcroft14@patch.com
+Phone: 718-255-8795
+Address: 8559 Cherokee Avenue, Flushing, NY, 11355
+Birthday: 2/9/2003
+GPA: 2.2
+Start date: 2/20/2021
+ID: 31828dbc
+Enrolled courses: CS4B
+
+
+=======
+
+Name: Wesley Henderson Saunper
+Email: hsaunper15@princeton.edu
+Phone: 217-337-7089
+Address: 28415 Grover Terrace, Champaign, IL, 61825
+Birthday: 7/13/2005
+GPA: 2.4
+Start date: 5/4/2021
+ID: dc75d26f
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Alister Meriel Darell
+Email: mdarell16@webnode.com
+Phone: 706-473-9204
+Address: 457 Merry Pass, Athens, GA, 30605
+Birthday: 1/8/2004
+GPA: 3.0
+Start date: 9/20/2019
+ID: 003c8b8c
+Enrolled courses: CS4A, PHYS2
+
+
+=======
+
+Name: Marsha Rosabel Cordingly
+Email: rcordingly17@bizjournals.com
+Phone: 843-915-5919
+Address: 7775 Duke Alley, Charleston, SC, 29411
+Birthday: 9/16/2001
+GPA: 3.6
+Start date: 10/20/2019
+ID: 88915162
+Enrolled courses: CS1B, CS4A
+
+
+=======
+
+Name: Irene Merry Lafoy
+Email: mlafoy18@cloudflare.com
+Phone: 814-838-5081
+Address: 9851 Del Sol Trail, Erie, PA, 16505
+Birthday: 12/5/2005
+GPA: 2.4
+Start date: 3/21/2021
+ID: 15a26290
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Finley Kristan Lumly
+Email: klumly19@cloudflare.com
+Phone: 518-558-9618
+Address: 76 Hazelcrest Junction, Albany, NY, 12262
+Birthday: 3/9/2003
+GPA: 2.2
+Start date: 5/13/2020
+ID: 2243ccf3
+Enrolled courses: CS1B, CS4A
+
+
+=======
+
+Name: Royal Aimil Petrak
+Email: apetrak1a@symantec.com
+Phone: 217-742-7035
+Address: 5 Fair Oaks Way, Springfield, IL, 62756
+Birthday: 3/29/2002
+GPA: 3.2
+Start date: 11/3/2020
+ID: ef3fcf8e
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Smitty Hobart Hazlehurst
+Email: hhazlehurst1b@istockphoto.com
+Phone: 213-508-0738
+Address: 18 Lien Alley, Van Nuys, CA, 91499
+Birthday: 10/25/2002
+GPA: 2.9
+Start date: 11/13/2020
+ID: e95bc5d8
+Enrolled courses: CS1B
+
+
+=======
+
+Name: Arda Jaime Kleynermans
+Email: jkleynermans1c@tmall.com
+Phone: 205-993-5091
+Address: 558 Parkside Terrace, Birmingham, AL, 35231
+Birthday: 12/14/2002
+GPA: 3.6
+Start date: 3/8/2021
+ID: 48859ba5
+Enrolled courses: CS1B, CS4B
+
+
+=======
+
+Name: Gerty Brantley Binton
+Email: bbinton1d@dagondesign.com
+Phone: 425-322-4640
+Address: 75628 Cardinal Alley, Everett, WA, 98206
+Birthday: 10/20/2005
+GPA: 3.0
+Start date: 12/13/2019
+ID: feeab7a1
+Enrolled courses: CS1B
+
+
+=======
+
+Name: Ric Glenine Kamienski
+Email: gkamienski1e@booking.com
+Phone: 209-402-0924
+Address: 90636 Kings Alley, Modesto, CA, 95354
+Birthday: 9/15/2002
+GPA: 2.2
+Start date: 9/22/2019
+ID: e3a16996
+Enrolled courses: CS1B, BIO109
+
+
+=======
+
+Name: Emmeline Esma Dilrew
+Email: edilrew1g@discovery.com
+Phone: 304-893-9849
+Address: 8000 Talmadge Road, Charleston, WV, 25356
+Birthday: 3/2/2002
+GPA: 3.6
+Start date: 9/18/2019
+ID: 928b69a8
+Enrolled courses: BIO109
+
+
+=======
+
+Name: Sari Kally Harwood
+Email: kharwood1h@chronoengine.com
+Phone: 616-125-9960
+Address: 78 East Street, Grand Rapids, MI, 49544
+Birthday: 6/15/2004
+GPA: 2.4
+Start date: 1/15/2020
+ID: 632fcc7c
+Enrolled courses: CS1B, BIO4
+
+
+=======
+
+Name: Carmelia Shoshana Cordell
+Email: scordell1i@dagondesign.com
+Phone: 217-311-3244
+Address: 4 Schmedeman Hill, Springfield, IL, 62718
+Birthday: 12/25/2004
+GPA: 3.3
+Start date: 12/22/2019
+ID: f275021e
+Enrolled courses: CS4B, PHYS2
+
+
+=======
+
+Name: Stanley Chloris Martinson
+Email: cmartinson1j@utexas.edu
+Phone: 402-583-9492
+Address: 26240 Judy Street, Omaha, NE, 68144
+Birthday: 10/15/2004
+GPA: 2.0
+Start date: 1/25/2020
+ID: 1babaeb8
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Kassi Kasper Tuting
+Email: ktuting1k@de.vu
+Phone: 214-696-2320
+Address: 87804 Pine View Point, Dallas, TX, 75392
+Birthday: 3/12/2001
+GPA: 2.3
+Start date: 5/25/2020
+ID: 5bf9bf5d
+Enrolled courses: CS4B, BIO109
+
+
+=======
+
+Name: Albertina Analiese Lufkin
+Email: alufkin1l@wikipedia.org
+Phone: 954-207-7628
+Address: 58162 Jenna Center, Fort Lauderdale, FL, 33315
+Birthday: 6/4/2004
+GPA: 3.4
+Start date: 9/4/2019
+ID: da31c7e6
+Enrolled courses: CS4B, PHYS2
+
+
+=======
+
+Name: Tony Cristy Peakman
+Email: cpeakman1m@amazon.de
+Phone: 571-403-5953
+Address: 960 Grim Crossing, Vienna, VA, 22184
+Birthday: 6/11/2002
+GPA: 2.8
+Start date: 5/8/2021
+ID: c23a36a9
+Enrolled courses: CS1B
+
+
+=======
+
+Name: Tobey Ellis Lamburn
+Email: elamburn1n@upenn.edu
+Phone: 256-581-7938
+Address: 6 Merchant Trail, Anniston, AL, 36205
+Birthday: 3/31/2003
+GPA: 2.5
+Start date: 9/5/2019
+ID: 49fad86f
+Enrolled courses: BIO109, PHYS2
+
+
+=======
+
+Name: Julian Reina Hein
+Email: rhein1o@cyberchimps.com
+Phone: 202-138-6331
+Address: 5669 Jay Drive, Washington, DC, 20057
+Birthday: 4/1/2004
+GPA: 3.0
+Start date: 4/26/2020
+ID: b03d451d
+Enrolled courses: CS1B
+
+
+=======
+
+Name: Phaidra Theresina Itzik
+Email: titzik1p@wikimedia.org
+Phone: 502-802-0453
+Address: 7 Sommers Trail, Migrate, KY, 41905
+Birthday: 7/6/2002
+GPA: 3.8
+Start date: 7/24/2020
+ID: 6821c31e
+Enrolled courses: CS4A
+
+
+=======
+
+Name: Sarah Ethelyn Alesbrook
+Email: ealesbrook1q@ifeng.com
+Phone: 216-604-4404
+Address: 3 Corben Point, Cleveland, OH, 44177
+Birthday: 12/21/2002
+GPA: 2.5
+Start date: 6/19/2020
+ID: 4624313a
+Enrolled courses: CS4B, BIO109
+
+
+=======
+
+Name: Cornell Ingelbert Pasby
+Email: ipasby1r@china.com.cn
+Phone: 305-967-2120
+Address: 322 Myrtle Alley, Miami, FL, 33158
+Birthday: 3/15/2003
+GPA: 3.0
+Start date: 7/22/2020
+ID: 19c68df1
+Enrolled courses: BIO109, PHYS2
+
+
+=======
+
+Name: Dur Vita Cusick
+Email: vcusick1s@globo.com
+Phone: 469-681-2830
+Address: 45765 Anniversary Circle, Dallas, TX, 75342
+Birthday: 4/19/2004
+GPA: 2.8
+Start date: 4/21/2020
+ID: f5905b38
+Enrolled courses: CS4A, BIO4
+
+
+=======
+
+Name: Ashlan Amble Matfield
+Email: amatfield1t@cbslocal.com
+Phone: 612-392-4552
+Address: 42 Rowland Street, Minneapolis, MN, 55487
+Birthday: 3/6/2002
+GPA: 2.2
+Start date: 1/12/2021
+ID: c28f22ab
+Enrolled courses: CS1B
+
+
+=======
+
+Name: Constance Auria Croft
+Email: acroft1u@xrea.com
+Phone: 402-329-5178
+Address: 529 Eagle Crest Trail, Omaha, NE, 68164
+Birthday: 9/19/2005
+GPA: 2.6
+Start date: 9/7/2020
+ID: b9f435d5
+Enrolled courses: CS1B
+
+
+=======
+
+Name: Eb Baily Molden
+Email: bmolden1v@nsw.gov.au
+Phone: 213-975-9725
+Address: 4 Weeping Birch Trail, Los Angeles, CA, 90030
+Birthday: 6/26/2004
+GPA: 2.9
+Start date: 9/29/2020
+ID: b739068a
+Enrolled courses: CS1B, BIO4
+
+
+=======
+
+Name: Rubie Clim Blackbourn
+Email: cblackbourn1x@nhs.uk
+Phone: 847-336-8711
+Address: 134 Coolidge Park, Schaumburg, IL, 60193
+Birthday: 6/22/2003
+GPA: 3.5
+Start date: 6/3/2020
+ID: ee6dd2b3
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Deloria Catarina Yankin
+Email: cyankin1y@skype.com
+Phone: 206-936-5946
+Address: 5983 Cordelia Court, Seattle, WA, 98133
+Birthday: 1/18/2004
+GPA: 3.1
+Start date: 4/4/2020
+ID: f4da160c
+Enrolled courses: CS4B
+
+
+=======
+
+Name: Christalle Broddy Darth
+Email: bdarth1z@hostgator.com
+Phone: 408-370-6995
+Address: 85921 School Alley, San Jose, CA, 95138
+Birthday: 7/5/2001
+GPA: 2.7
+Start date: 12/23/2020
+ID: 1dd03a7d
+Enrolled courses: BIO109, BIO4
+
+
+=======
+
+Name: Rhodie Northrup O'Cullen
+Email: nocullen20@prlog.org
+Phone: 716-312-9091
+Address: 024 Dorton Way, Buffalo, NY, 14220
+Birthday: 1/27/2002
+GPA: 2.9
+Start date: 1/4/2021
+ID: 6c26694c
+Enrolled courses: BIO109, BIO4
+
+
+=======
+
+Name: Desirae Hymie Crossman
+Email: hcrossman21@wp.com
+Phone: 804-699-9714
+Address: 9 Fairview Place, Richmond, VA, 23289
+Birthday: 2/22/2001
+GPA: 3.4
+Start date: 3/26/2020
+ID: 25e5dbbf
+Enrolled courses: BIO109
+
+
+=======
+
+Name: Naomi Ezekiel Soans
+Email: esoans22@phpbb.com
+Phone: 361-929-2891
+Address: 77 Atwood Crossing, Corpus Christi, TX, 78415
+Birthday: 5/14/2001
+GPA: 3.1
+Start date: 10/2/2019
+ID: 6ea0cd48
+Enrolled courses: CS4B
+
+
+=======
+
+Name: Brigham Aldon Esplin
+Email: aesplin23@weather.com
+Phone: 517-682-2690
+Address: 621 Garrison Circle, Lansing, MI, 48919
+Birthday: 3/31/2005
+GPA: 2.1
+Start date: 2/24/2020
+ID: 0f135e01
+Enrolled courses: CS4B
+
+
+=======
+
+Name: Dru Patience Hutchin
+Email: phutchin24@nhs.uk
+Phone: 262-889-8570
+Address: 3 Aberg Trail, Milwaukee, WI, 53210
+Birthday: 9/2/2003
+GPA: 3.2
+Start date: 3/4/2021
+ID: 35ce8a9d
+Enrolled courses: CS4B, BIO4
+
+
+=======
+
+Name: Tades Evie Vogelein
+Email: evogelein26@infoseek.co.jp
+Phone: 508-808-6863
+Address: 41 Farragut Way, Worcester, MA, 1605
+Birthday: 10/26/2005
+GPA: 2.2
+Start date: 12/14/2019
+ID: 1f847ed1
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Laney Emmet Bretherick
+Email: ebretherick27@go.com
+Phone: 407-297-5849
+Address: 980 Judy Court, Winter Haven, FL, 33884
+Birthday: 4/30/2002
+GPA: 3.9
+Start date: 11/3/2020
+ID: e4375995
+Enrolled courses: CS1B, BIO109
+
+
+=======
+
+Name: Randee Pepillo McCallister
+Email: pmccallister28@alibaba.com
+Phone: 202-489-4055
+Address: 2433 Golden Leaf Lane, Washington, DC, 20268
+Birthday: 12/27/2004
+GPA: 3.5
+Start date: 4/12/2020
+ID: a844f785
+Enrolled courses: CS4B, BIO109
+
+
+=======
+
+Name: Shir Lisle Millier
+Email: lmillier29@skyrock.com
+Phone: 212-646-2069
+Address: 813 Calypso Lane, Jamaica, NY, 11431
+Birthday: 10/1/2003
+GPA: 3.1
+Start date: 12/22/2020
+ID: 6eda4391
+Enrolled courses: PHYS2
+
+
+=======
+
+Name: Roxi Joyan Peiser
+Email: jpeiser2a@illinois.edu
+Phone: 321-583-9579
+Address: 3 Waxwing Avenue, Palm Bay, FL, 32909
+Birthday: 8/16/2003
+GPA: 2.8
+Start date: 4/4/2021
+ID: ef49750d
+Enrolled courses: CS1B, BIO109
+
+
+=======
+
+Name: Lusa Nanine Tschirasche
+Email: ntschirasche2c@shareasale.com
+Phone: 701-741-4272
+Address: 10 Manitowish Junction, Grand Forks, ND, 58207
+Birthday: 2/24/2005
+GPA: 3.3
+Start date: 10/28/2019
+ID: e79d4afa
+Enrolled courses: BIO109
+
+
+=======
+
+Name: Tamera Abbi Markwell
+Email: amarkwell2d@nature.com
+Phone: 201-483-5597
+Address: 7531 Fairview Crossing, Jersey City, NJ, 7305
+Birthday: 9/18/2002
+GPA: 3.5
+Start date: 3/1/2020
+ID: b0cabdc4
+Enrolled courses: CS1B
+
+
+=======
+
+Name: Nell Peria Mathwin
+Email: pmathwin2f@sina.com.cn
+Phone: 202-342-9670
+Address: 40018 Derek Avenue, Washington, DC, 20029
+Birthday: 12/19/2003
+GPA: 3.7
+Start date: 12/31/2020
+ID: cd392b34
+Enrolled courses: CS4A
+
+
+=======
+
+Name: Bond Juliet Staniford
+Email: jstaniford2h@harvard.edu
+Phone: 214-371-8352
+Address: 31 Melvin Avenue, Dallas, TX, 75260
+Birthday: 1/1/2001
+GPA: 3.2
+Start date: 9/30/2020
+ID: 52982620
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Mariquilla Anne Toffts
+Email: atoffts2i@pcworld.com
+Phone: 202-519-4687
+Address: 78 Corben Avenue, Washington, DC, 20430
+Birthday: 5/10/2003
+GPA: 3.2
+Start date: 12/31/2019
+ID: 78cde45a
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Rivy Rainer Abbatucci
+Email: rabbatucci2j@msn.com
+Phone: 331-566-9954
+Address: 8 Magdeline Street, Aurora, IL, 60505
+Birthday: 12/4/2002
+GPA: 3.0
+Start date: 11/24/2019
+ID: fe5bd92e
+Enrolled courses: BIO4
+
+
+=======
+
+Name: Che Norry Woodrough
+Email: nwoodrough2k@netvibes.com
+Phone: 304-625-5647
+Address: 9 David Plaza, Charleston, WV, 25326
+Birthday: 6/20/2005
+GPA: 4.0
+Start date: 3/31/2021
+ID: 74ddcaac
+Enrolled courses: BIO109
+
+
+=======
+
+Name: Zak Guilbert Fridlington
+Email: gfridlington2l@alibaba.com
+Phone: 302-651-1271
+Address: 68 Fremont Street, Wilmington, DE, 19892
+Birthday: 12/15/2005
+GPA: 3.7
+Start date: 8/2/2020
+ID: ec573d20
+Enrolled courses: CS4A, BIO4
+
+
+=======
+
+Name: Lesley Alec Adger
+Email: aadger2m@craigslist.org
+Phone: 917-750-1726
+Address: 02121 Di Loreto Trail, Jamaica, NY, 11436
+Birthday: 10/25/2005
+GPA: 3.0
+Start date: 3/22/2021
+ID: da5fd34d
+Enrolled courses: BIO109
+
+
+=======
+
+Name: Peggy Claudian Docksey
+Email: cdocksey2p@cargocollective.com
+Phone: 401-367-3209
+Address: 9461 Leroy Avenue, Providence, RI, 2905
+Birthday: 7/9/2004
+GPA: 2.6
+Start date: 1/12/2021
+ID: 7e7195ef
+Enrolled courses: BIO4
+
+

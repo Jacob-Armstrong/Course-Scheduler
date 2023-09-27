@@ -1,0 +1,260 @@
+=======
+
+Name: Giffy Torey Cradock
+Email: tcradock0@pinterest.com
+Phone: 304-206-9866
+Address: 92135 Oak Valley Crossing, Charleston, WV, 25305
+Hire date: 4/27/2005
+Tenured: True
+ID: 2012222a
+
+Courses taught: CS1B, CS4A
+
+
+=======
+
+Name: Boyd Wilfrid Alcott
+Email: walcott1@webeden.co.uk
+Phone: 903-450-0070
+Address: 979 Rutledge Lane, Tyler, TX, 75799
+Hire date: 10/4/2016
+Tenured: True
+ID: bd0a0c73
+
+Courses taught: CS1B, CS4A
+
+
+=======
+
+Name: Romona Shaina Holywell
+Email: sholywell2@bloomberg.com
+Phone: 757-341-1541
+Address: 8 Heffernan Court, Norfolk, VA, 23520
+Hire date: 6/21/2001
+Tenured: True
+ID: 18f36d13
+
+Courses taught: CS4B, BIO109
+
+
+=======
+
+Name: Shane Willie Haire
+Email: whaire3@blogs.com
+Phone: 210-814-7290
+Address: 574 American Crossing, San Antonio, TX, 78265
+Hire date: 10/26/2013
+Tenured: True
+ID: 892e938e
+
+Courses taught: CS4B, BIO109
+
+
+=======
+
+Name: Archy Hamilton Keyworth
+Email: hkeyworth4@harvard.edu
+Phone: 407-958-6655
+Address: 3 School Alley, Orlando, FL, 32854
+Hire date: 5/31/2006
+Tenured: True
+ID: e7512be7
+
+Courses taught: BIO4
+
+
+=======
+
+Name: Kerry Hali Bazoche
+Email: hbazoche5@kickstarter.com
+Phone: 434-117-5961
+Address: 26222 Butterfield Junction, Lynchburg, VA, 24503
+Hire date: 2/1/2004
+Tenured: True
+ID: c2f71a34
+
+Courses taught: BIO4
+
+
+=======
+
+Name: Allistir Cairistiona Spearett
+Email: cspearett6@nydailynews.com
+Phone: 406-996-3986
+Address: 24 Prairieview Way, Billings, MT, 59105
+Hire date: 3/3/2002
+Tenured: False
+ID: 4cbe7c87
+
+Courses taught: PHYS2
+
+
+=======
+
+Name: Lucias Tawsha Jensen
+Email: tjensen7@acquirethisname.com
+Phone: 917-409-0432
+Address: 21753 Steensland Drive, Brooklyn, NY, 11215
+Hire date: 1/23/2015
+Tenured: True
+ID: a4aa8a40
+
+Courses taught: PHYS2
+
+
+=======
+
+Name: Stacie Corinna Keigher
+Email: ckeigher8@uiuc.edu
+Phone: 206-261-6736
+Address: 26823 Kipling Hill, Seattle, WA, 98185
+Hire date: 3/14/2008
+Tenured: False
+ID: b5606708
+
+Courses taught: 
+
+
+=======
+
+Name: Mirabella Jeannine Baish
+Email: jbaish9@slashdot.org
+Phone: 907-803-6509
+Address: 39 Charing Cross Drive, Fairbanks, AK, 99709
+Hire date: 3/30/2015
+Tenured: False
+ID: 0ec55213
+
+Courses taught: 
+
+
+=======
+
+Name: Waly Karel Davis
+Email: kdavisa@nature.com
+Phone: 509-308-7860
+Address: 80362 Debs Road, Spokane, WA, 99260
+Hire date: 12/6/2007
+Tenured: False
+ID: 8d5f297f
+
+Courses taught: 
+
+
+=======
+
+Name: Shae Bettina Ing
+Email: bingb@dailymotion.com
+Phone: 304-129-1074
+Address: 22990 Little Fleur Pass, Charleston, WV, 25389
+Hire date: 7/11/2011
+Tenured: True
+ID: 6d95c4b8
+
+Courses taught: 
+
+
+=======
+
+Name: Reta Jillane Goodship
+Email: jgoodshipc@nyu.edu
+Phone: 303-440-8151
+Address: 3 Fairfield Avenue, Aurora, CO, 80045
+Hire date: 5/2/2007
+Tenured: False
+ID: aeb2bfef
+
+Courses taught: 
+
+
+=======
+
+Name: Cody Domenico Cronshaw
+Email: dcronshawd@blogs.com
+Phone: 513-687-7308
+Address: 62008 Norway Maple Road, Cincinnati, OH, 45999
+Hire date: 12/21/2002
+Tenured: False
+ID: d51ec617
+
+Courses taught: 
+
+
+=======
+
+Name: Wainwright Calhoun Clempton
+Email: cclemptone@salon.com
+Phone: 712-642-6477
+Address: 563 Manley Pass, Sioux City, IA, 51110
+Hire date: 5/15/2008
+Tenured: True
+ID: bb0c9020
+
+Courses taught: 
+
+
+=======
+
+Name: Ardelis Edwina Duffan
+Email: eduffanf@vkontakte.ru
+Phone: 317-648-5627
+Address: 7485 Mcguire Junction, Indianapolis, IN, 46247
+Hire date: 6/14/2016
+Tenured: True
+ID: fc950b3d
+
+Courses taught: 
+
+
+=======
+
+Name: Kai Christoper Dearan
+Email: cdearang@cbsnews.com
+Phone: 915-765-1708
+Address: 47427 Meadow Vale Plaza, El Paso, TX, 79994
+Hire date: 4/26/2009
+Tenured: True
+ID: 8f2e98b8
+
+Courses taught: 
+
+
+=======
+
+Name: Padriac Joseph Scain
+Email: jscainh@bloglovin.com
+Phone: 623-958-9060
+Address: 41838 Service Way, Scottsdale, AZ, 85260
+Hire date: 2/10/2004
+Tenured: True
+ID: 46224be8
+
+Courses taught: 
+
+
+=======
+
+Name: Christan Tracy Dales
+Email: tdalesi@hc360.com
+Phone: 513-811-6091
+Address: 577 Michigan Point, Cincinnati, OH, 45243
+Hire date: 7/18/2004
+Tenured: True
+ID: d0ce1654
+
+Courses taught: 
+
+
+=======
+
+Name: Rafaelita Melesa Gunthorpe
+Email: mgunthorpej@typepad.com
+Phone: 786-204-6921
+Address: 367 Alpine Plaza, Hialeah, FL, 33013
+Hire date: 10/7/2005
+Tenured: False
+ID: e4c217d6
+
+Courses taught: 
+
+

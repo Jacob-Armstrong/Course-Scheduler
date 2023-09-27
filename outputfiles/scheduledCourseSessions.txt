@@ -1,0 +1,233 @@
+=============== CS1B ===============
+Introduction to Computer Science II
+
+Professors teaching this course:
+Giffy Cradock
+Boyd Alcott
+
+Number of total students: 20
+
+Sessions of CS1B:
+
+> Session id: SES-8276a42
+> Faculty teaching: Giffy Cradock - 2012222a
+> Students in this session (20):
+--> Valma Carwithim [e9700680]
+--> Creigh Portman [82f99906]
+--> Parrnell Dalliwatr [af0c75d4]
+--> Merrili Orry [a630aa80]
+--> Ilysa de Castelain [21484394]
+--> Marsha Cordingly [88915162]
+--> Finley Lumly [2243ccf3]
+--> Smitty Hazlehurst [e95bc5d8]
+--> Arda Kleynermans [48859ba5]
+--> Gerty Binton [feeab7a1]
+--> Ric Kamienski [e3a16996]
+--> Sari Harwood [632fcc7c]
+--> Tony Peakman [c23a36a9]
+--> Julian Hein [b03d451d]
+--> Ashlan Matfield [c28f22ab]
+--> Constance Croft [b9f435d5]
+--> Eb Molden [b739068a]
+--> Laney Bretherick [e4375995]
+--> Roxi Peiser [ef49750d]
+--> Tamera Markwell [b0cabdc4]
+
+<><><><><>
+
+=============== CS4A ===============
+Introduction to Java
+
+Professors teaching this course:
+Giffy Cradock
+Boyd Alcott
+
+Number of total students: 20
+
+Sessions of CS4A:
+
+> Session id: SES-3b14db0
+> Faculty teaching: Boyd Alcott - bd0a0c73
+> Students in this session (20):
+--> Aggi Wolsey [1a89afa6]
+--> Andeee Fetteplace [613a9439]
+--> Annetta Gimblet [7fdb433a]
+--> Creigh Portman [82f99906]
+--> Augustina Cowie [27ec0b93]
+--> Terri Pearsey [be6a8f48]
+--> Goddard Buston [b3b4ca6f]
+--> Glenden Groundwator [cfb9cfbd]
+--> Gallagher Sailer [08bed513]
+--> Merrili Orry [a630aa80]
+--> Kaine Folkes [d3cb49fb]
+--> Ulysses Treslove [fd919cf8]
+--> Arlie Themann [c46bfc16]
+--> Alister Darell [003c8b8c]
+--> Marsha Cordingly [88915162]
+--> Finley Lumly [2243ccf3]
+--> Phaidra Itzik [6821c31e]
+--> Dur Cusick [f5905b38]
+--> Nell Mathwin [cd392b34]
+--> Zak Fridlington [ec573d20]
+
+<><><><><>
+
+=============== CS4B ===============
+Introduction to Java II
+
+Professors teaching this course:
+Romona Holywell
+Shane Haire
+
+Number of total students: 20
+
+Sessions of CS4B:
+
+> Session id: SES-0b70d46
+> Faculty teaching: Romona Holywell - 18f36d13
+> Students in this session (20):
+--> Aristotle Gioan [d7b9ae41]
+--> Aggi Balm [8096b27e]
+--> Valma Carwithim [e9700680]
+--> Nicoli Boomes [3f9af48f]
+--> Kit Fretwell [9d8c208f]
+--> Goddard Buston [b3b4ca6f]
+--> See Bagnal [e4f6830c]
+--> Hinda Kikke [a7322f8b]
+--> Pen Goodding [3a8f5501]
+--> Giorgia Croft [31828dbc]
+--> Arda Kleynermans [48859ba5]
+--> Carmelia Cordell [f275021e]
+--> Kassi Tuting [5bf9bf5d]
+--> Albertina Lufkin [da31c7e6]
+--> Sarah Alesbrook [4624313a]
+--> Deloria Yankin [f4da160c]
+--> Naomi Soans [6ea0cd48]
+--> Brigham Esplin [0f135e01]
+--> Dru Hutchin [35ce8a9d]
+--> Randee McCallister [a844f785]
+
+<><><><><>
+
+=============== BIO109 ===============
+Introduction to BIO
+
+Professors teaching this course:
+Romona Holywell
+Shane Haire
+
+Number of total students: 20
+
+Sessions of BIO109:
+
+> Session id: SES-5242114
+> Faculty teaching: Shane Haire - 892e938e
+> Students in this session (20):
+--> Andeee Fetteplace [613a9439]
+--> Riannon Nerne [b196c597]
+--> Ramsay Iacomi [517f60df]
+--> Ilysa de Castelain [21484394]
+--> Pen Goodding [3a8f5501]
+--> Ric Kamienski [e3a16996]
+--> Emmeline Dilrew [928b69a8]
+--> Kassi Tuting [5bf9bf5d]
+--> Tobey Lamburn [49fad86f]
+--> Sarah Alesbrook [4624313a]
+--> Cornell Pasby [19c68df1]
+--> Christalle Darth [1dd03a7d]
+--> Rhodie O'Cullen [6c26694c]
+--> Desirae Crossman [25e5dbbf]
+--> Laney Bretherick [e4375995]
+--> Randee McCallister [a844f785]
+--> Roxi Peiser [ef49750d]
+--> Lusa Tschirasche [e79d4afa]
+--> Che Woodrough [74ddcaac]
+--> Lesley Adger [da5fd34d]
+
+<><><><><>
+
+=============== BIO4 ===============
+Even More Advanced Biology
+
+Professors teaching this course:
+Archy Keyworth
+Kerry Bazoche
+
+Number of total students: 25
+
+Sessions of BIO4:
+
+> Session id: SES-c2cee5f
+> Faculty teaching: Archy Keyworth - e7512be7
+> Students in this session (20):
+--> Aggi Wolsey [1a89afa6]
+--> Aristotle Gioan [d7b9ae41]
+--> Revkah Myford [37e9da1b]
+--> Heather Mignot [50db2db5]
+--> Thaxter Hallor [82fef866]
+--> Augustina Cowie [27ec0b93]
+--> Nicoli Boomes [3f9af48f]
+--> Trudi Cagan [40b2c8e0]
+--> Berty Kynoch [d8f56c5f]
+--> Gallagher Sailer [08bed513]
+--> Desdemona Robiot [137133cc]
+--> Wesley Saunper [dc75d26f]
+--> Royal Petrak [ef3fcf8e]
+--> Sari Harwood [632fcc7c]
+--> Dur Cusick [f5905b38]
+--> Eb Molden [b739068a]
+--> Rubie Blackbourn [ee6dd2b3]
+--> Christalle Darth [1dd03a7d]
+--> Rhodie O'Cullen [6c26694c]
+--> Dru Hutchin [35ce8a9d]
+
+<><><><><>
+
+> Session id: SES-de86d74
+> Faculty teaching: Kerry Bazoche - c2f71a34
+> Students in this session (5):
+--> Bond Staniford [52982620]
+--> Mariquilla Toffts [78cde45a]
+--> Rivy Abbatucci [fe5bd92e]
+--> Zak Fridlington [ec573d20]
+--> Peggy Docksey [7e7195ef]
+
+<><><><><>
+
+=============== PHYS2 ===============
+Is Physics Cool
+
+Professors teaching this course:
+Allistir Spearett
+Lucias Jensen
+
+Number of total students: 20
+
+Sessions of PHYS2:
+
+> Session id: SES-0a3f55d
+> Faculty teaching: Allistir Spearett - 4cbe7c87
+> Students in this session (20):
+--> Blondy Hadigate [4c0f0073]
+--> Revkah Myford [37e9da1b]
+--> Bettine Knibley [ccaaa273]
+--> Gaylor Prover [ac417b74]
+--> Gawen Wilflinger [8211fd7f]
+--> Riannon Nerne [b196c597]
+--> Ramsay Iacomi [517f60df]
+--> Ches Millar [1334cb10]
+--> Pennie Szymczyk [b1ec3975]
+--> Desdemona Robiot [137133cc]
+--> Arlie Themann [c46bfc16]
+--> Alister Darell [003c8b8c]
+--> Irene Lafoy [15a26290]
+--> Carmelia Cordell [f275021e]
+--> Stanley Martinson [1babaeb8]
+--> Albertina Lufkin [da31c7e6]
+--> Tobey Lamburn [49fad86f]
+--> Cornell Pasby [19c68df1]
+--> Tades Vogelein [1f847ed1]
+--> Shir Millier [6eda4391]
+
+<><><><><>
+

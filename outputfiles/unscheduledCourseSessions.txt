@@ -1,0 +1,20 @@
+=============== BIO3 ===============
+Advanced Biology
+
+Number of students that needed to be in this class: 20
+
+=============== PHYS1 ===============
+Is Physics Real
+
+Number of students that needed to be in this class: 20
+
+=============== PHYS3 ===============
+Physics Is Real Cool
+
+Number of students that needed to be in this class: 20
+
+=============== SOC2H ===============
+Sociology
+
+Number of students that needed to be in this class: 20
+
