@@ -1,4 +1,4 @@
-# Spring 2021 Final Project (Java)
+# College Course Scheduler (Spring 2021 Final Project)
 
 For the sake of organization, I have put all of the files with code
 into the same structure as my actual project. This project was designed
